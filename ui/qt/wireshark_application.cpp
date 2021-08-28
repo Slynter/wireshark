@@ -630,7 +630,7 @@ WiresharkApplication::WiresharkApplication(int &argc,  char **argv) :
     active_captures_(0)
 {
     wsApp = this;
-    setApplicationName("Wireshark");
+    setApplicationName("VestigeHai");
 
     MimeDatabaseInitThread *mime_db_init_thread = new(MimeDatabaseInitThread);
     QThreadPool::globalInstance()->start(mime_db_init_thread);
