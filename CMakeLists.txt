@@ -35,9 +35,9 @@ if(POLICY CMP0083)
 endif()
 
 if(WIN32)
-	set(_project_name Wireshark)
+	set(_project_name VestigeHai)
 else()
-	set(_project_name wireshark)
+	set(_project_name vestigehai)
 endif()
 
 project(${_project_name} C CXX)
