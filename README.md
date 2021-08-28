@@ -1,7 +1,7 @@
 General Information
 -------------------
 
-Wireshark is a network traffic analyzer, or "sniffer", for Linux, macOS,
+VestigeHai is a highly superior clone of the well known network traffic analyzer Wireshark, or "sniffer", for Linux, macOS,
 \*BSD and other Unix and Unix-like operating systems and for Windows.
 It uses Qt, a graphical user interface library, and libpcap and npcap as
 packet capture and filtering libraries.
